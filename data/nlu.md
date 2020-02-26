@@ -153,20 +153,28 @@
 - extremely sad
 - so sad
 
-## intent:asking_name_camera
+<!-- ## intent:asking_name_camera
 
 - how many times did [yatin](person_name) walk from [cam1](camera_name)?
 - [komal](person_name) [cam2](camera_name)?
 - [Rohan](person_name) from [cam3](camera_name)?
--
 - how many times did [yatin](person_name) walk from [cam1](camera_name)?
 - how many times did [yatin](person_name) walk from [cam1](camera_name)?
 - how many times did [yatin](person_name) walk from [cam1](camera_name)?
-- how many times did [yatin](person_name) walk from [cam1](camera_name)?
+- how many times did [yatin](person_name) walk from [cam1](camera_name)? -->
 
 ## intent:asking_name
 
+- [cam1](camera_name)?
+- who and all crossed from [cam3](camera_name)?
+- people crossing camera [cam2](camera_name)?
+- detection at [cam1](camera_name)?
+
 ## intent:asking_camera
+
+- [komal](person_name)
+- which camera did [yatin](person_name) cross ?
+- [shivansh](person_name) is detected by ?
 
 ## intent:bot_challenge
 
